@@ -34,7 +34,39 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
-  }
+  },
+
+  '/test':{
+    view: 'homepage'
+    },
+
+  'get /login': {
+    view: 'login'
+    },
+
+  'get /bis':  {
+    controller: 'AddressController',
+    action: 'ma_methode'
+  },
+
+  'get /account' : {
+    controller: 'AccountController',
+    action: 'index'
+  },
+
+  'post /login': 'AuthController.login',
+
+  '/logout': 'AuthController.logout',
+
+  'get /signup': {
+    view: 'signup'
+    },
+
+
+  'get /verou': {
+      controller: 'AccountController',
+      action: 'verrou'
+    }
 
   /***************************************************************************
   *                                                                          *
