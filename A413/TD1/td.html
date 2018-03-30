@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="author" content="Joran">
+    <meta name="description" content="TD1 A413">
+    <meta name="keywords" content="td">
     <script type="text/javascript" src="my_functions.js"></script>
     <title>exercice1</title>
 </head>
-<body onLoad="defTitre4(); inverseTexte()">
+<body onLoad="defTitre4(); inverseTexte(); dateModif(); majHorloge1()">
 <h1 class="firstOrLast" id="titre">h1 Un</h1>
 <h2>h2 Un</h2>
 <h2  class="firstOrLast">h2 Deux</h2>
@@ -14,5 +17,8 @@
 <h3>h3Trois</h3>
 <div><p>bla bla <span>bli bli</span> blo blo</p></div>
 <div><p>pla pla <span>pli pli</span> plo plo</p></div>
+<div id="date_modif"></div>
+<div id="horloge"></div>
+<p id="datexxx" onClick="majNbJours()">Il reste xxx jours avant le 19 juillet 2018</p>
 </body>
 </html>

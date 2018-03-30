@@ -32,3 +32,33 @@ function inverseTexte() {
     thing[0].innerHTML = thing[1].innerHTML;
     thing[1].innerHTML = temp;
 }
+
+function dateModif() {
+    var x = new Date(document.lastModified);
+    var y = document.querySelector("meta[name='author']").getAttribute("content");
+    var jours = new Array("dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi");
+    var mois = new Array("janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre");
+    document.getElementById("date_modif").innerText = "Dernière modification le " + jours[x.getDay()] + " " + x.getDate() + " " + mois[x.getMonth()] + " " + x.getFullYear() + " par " + y;
+}
+
+function majNbJours() {
+    var thing = document.getElementById("datexxx");
+    var x = thing.innerText;
+    var d1 = Date.now() / 86400000;
+    var d2 = Date.parse('19 Jul 2018 00:00:00 GMT') / 86400000;
+    var d3 = (d2 - d1).toFixed(0);
+    thing.innerText = x.replace("xxx", d3 );
+    if (d3 == 1){
+        thing.innerText.replace("jours", "jour");
+    }
+}
+
+function getTime() {
+    var time = new Date();
+    var timeString = time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds();
+    document.getElementById("horloge").innerText = timeString;
+}
+
+function majHorloge1() {
+    intervalId = window.setInterval(getTime,1000);
+}
