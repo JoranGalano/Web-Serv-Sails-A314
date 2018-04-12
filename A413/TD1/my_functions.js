@@ -1,3 +1,9 @@
+var bodyyy;
+
+function sauvegarde(){
+    bodyyy = document.querySelector("body").innerHTML;
+}
+
 function defTitre1() {
     document.title = document.getElementById("titre").innerText
 }
@@ -61,4 +67,49 @@ function getTime() {
 
 function majHorloge1() {
     intervalId = window.setInterval(getTime,1000);
+}
+
+function changeColor() {
+    var input = document.querySelector("input");
+    if (isNaN(input.value) && input.value!=""){
+        input.setAttribute("class","rouge");
+    }
+    else if (input.value==""){
+        input.setAttribute("class","blanc");
+    }
+    else {
+        input.setAttribute("class","vert");
+    }
+}
+
+function derouler(i){
+    var menu = document.getElementById("menu");
+    var lis = menu.children;
+    //Initialisation
+    for(var j=0; j<lis.length; j++){
+        var listStyle = lis[j].getAttribute("style");
+        if(listStyle == null){
+            lis[j].setAttribute("style","list-style-image: url('./plus.gif');");
+        }
+    }
+    if(i!=-1){
+        listStyle = lis[i].getAttribute("style");
+        if(listStyle.valueOf() == "list-style-image: url('./plus.gif');"){
+            lis[i].setAttribute("style","list-style-image: url('minus.gif');");
+            ul = lis[i].firstElementChild; ul.setAttribute("style","display: block;");
+        }
+        else{
+            lis[i].setAttribute("style","list-style-image: url('./plus.gif');");
+            ul = lis[i].firstElementChild;
+            ul.setAttribute("style","display: none;");
+        }
+    }
+}
+
+function recherche(){
+    var mot = document.querySelectorAll("input")[1].value;
+    document.body.innerHTML = bodyyy;
+    reg = new RegExp('('+mot+')','gi');
+
+    document.body.innerHTML = document.body.innerHTML.replace(reg,"<span class='rech'>"+mot+"</span>");
 }

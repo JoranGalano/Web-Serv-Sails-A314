@@ -6,9 +6,10 @@
     <meta name="description" content="TD1 A413">
     <meta name="keywords" content="td">
     <script type="text/javascript" src="my_functions.js"></script>
+    <link rel="stylesheet" href="tdStyle.css">
     <title>exercice1</title>
 </head>
-<body onLoad="defTitre4(); inverseTexte(); dateModif(); majHorloge1()">
+<body onLoad="defTitre4(); inverseTexte(); dateModif(); majHorloge1(); derouler(-1); sauvegarde();">
 <h1 class="firstOrLast" id="titre">h1 Un</h1>
 <h2>h2 Un</h2>
 <h2  class="firstOrLast">h2 Deux</h2>
@@ -20,5 +21,42 @@
 <div id="date_modif"></div>
 <div id="horloge"></div>
 <p id="datexxx" onClick="majNbJours()">Il reste xxx jours avant le 19 juillet 2018</p>
+<input type="text" oninput="changeColor()"></input>
+<aside>
+    <ul id="menu">
+        <li onclick="derouler(0)">Informations Générales
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">CV</a></li>
+            </ul>
+        </li>
+        <li onclick="derouler(1)">Recherche
+            <ul>
+                <li><a href="#">Activités</a></li>
+                <li><a href="#">Rayonnement Scientifique</a></li>
+                <li><a href="#">Projets en cours</a></li>
+                <li><a href="#">Anciens projets</a></li>
+                <li><a href="#">Publications</a></li>
+            </ul>
+        </li>
+        <li onclick="derouler(2)">Enseignement <ul>
+            <li><a href="#">Département Informatique</a></li>
+            <li><a href="#">LP SIL</a></li>
+            <li><a href="#">Polytech Nice-Sophia</a></li>
+            <li><a href="#">Autres</a></li>
+            <li><a href="#">Stages et Projets</a></li>
+        </ul>
+        </li>
+        <li onclick="derouler(3)">Personnel
+            <ul>
+                <li><a href="#">Loisirs</a></li>
+            </ul>
+        </li>
+    </ul>
+</aside>
+<div>
+    <input type="text"></input>
+    <button onClick="recherche()">Recherche</button>
+</div>
 </body>
 </html>

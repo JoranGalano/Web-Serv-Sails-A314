@@ -1,0 +1,38 @@
+.blanc{
+    background-color: rgb(255,255,255);
+}
+.vert {
+    background-color: rgb(150,255,150);
+}
+.rouge {
+    background-color: rgb(255,150,150);
+}
+.rech {
+    background-color: yellow;
+}
+
+#menu>li{
+    background-color: lightblue;
+    list-style-position: inside;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    border-radius:10px;
+    width:350px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#menu>li>ul{
+    background-color: black;
+    display: none;
+}
+
+#menu>li>ul>li{
+    list-style: none;
+}
+
+#menu a{
+    color:white;
+}
+
