@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+    <channel>
+        <title>Le Monde.fr - Actualités et Infos en France et dans le monde</title>
+        <description>Le Monde.fr - 1er site d'information. Les articles du journal et toute l'actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ...</description>
+        <copyright>Copyright Le Monde.fr</copyright>
+        <link>https://www.lemonde.fr/rss/une.xml</link>
+        <atom:link href="https://www.lemonde.fr/rss/une.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 24 May 2018 11:33:12 +0200</pubDate>
+        <image>
+            <url>https://www.lemonde.fr/mmpub/img/lgo/lemondefr_rss.gif</url>
+            <title>Le Monde.fr - Actualités et Infos en France et dans le monde</title>
+            <link>https://www.lemonde.fr/rss/une.xml</link>
+        </image>
+        <item>
+            <link>https://www.lemonde.fr/europe/live/2018/05/24/nouvelle-coalition-italienne-posez-vos-questions_5303759_3214.html?xtor=RSS-3208</link>
+            <title>En direct : posez vos questions sur la coalition populiste qui prend le pouvoir en Italie</title>
+            <description>Le correspondant du « Monde » à Rome, Jérôme Gautheret, analyse la nomination de Giuseppe Conte à la présidence du conseil italien.</description>
+            <pubDate>Thu, 24 May 2018 10:40:57 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303759/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303758_3_f418_italian-premier-designate-giuseppe-conte_d6747497afcd13664c7481f10883e764.jpg" type="image/jpeg" length="33337"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/economie/article/2018/05/24/a-la-sncf-le-fosse-entre-le-management-de-l-entreprise-et-les-salaries-se-creuse_5303774_3234.html?xtor=RSS-3208</link>
+            <title>A la SNCF, le fossé entre le management de l’entreprise et les salariés se creuse</title>
+            <description>Les résultats du référendum interne ont beau conforter les syndicats, la grève s’essouffle.</description>
+            <pubDate>Thu, 24 May 2018 10:45:05 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303774/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303770_3_893e_lors-de-la-vot-action-a-marseille-le-15_a129de55466f32cb908a250158325765.jpg" type="image/jpeg" length="51929"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/europe/article/2018/05/23/visite-de-macron-en-russie-les-defenseurs-des-droits-humains-tentent-de-se-faire-entendre_5303464_3214.html?xtor=RSS-3208</link>
+            <title>Visite de Macron en Russie : les défenseurs des droits humains tentent de se faire entendre</title>
+            <description>Le président français doit rencontrer des représentants de la société civile mobilisés pour les libérations du cinéaste ukrainien Oleg Sentsov et du Tchétchène Oyoub Titiev.</description>
+            <pubDate>Wed, 23 May 2018 17:07:05 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303464/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/23/644x322/5303463_3_b4e6_le-cineaste-oleg-sentsov-lors-de-son-proces-a_0b318dd990bac7639362dad43c437b46.jpg" type="image/jpeg" length="21955"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/afrique/article/2018/05/23/contre-le-retour-d-ebola-la-vaccination-ne-peut-pas-tout_5303210_3212.html?xtor=RSS-3208</link>
+            <title>« Contre le retour d’Ebola, la vaccination ne peut pas tout »</title>
+            <description>Pour la géographe Clelia Gasquet-Blanchard, l’endiguement d’épidémies comme celle que connaît la RDC passe, en amont, par une véritable politique de promotion de la santé.</description>
+            <pubDate>Wed, 23 May 2018 11:26:01 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303210/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/23/644x322/5303207_3_dbaf_a-monrovia-au-liberia-le-5-avril-2017-un_0359fb1c8182aa77e4d32eadd6f97ba9.jpg" type="image/jpeg" length="32813"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/pixels/article/2018/05/24/les-enfants-petites-stars-des-chaines-familiales-polemiques-sur-youtube_5303731_4408996.html?xtor=RSS-3208</link>
+            <title>Les enfants, petites stars des chaînes familiales polémiques sur YouTube</title>
+            <description>Sur des chaînes YouTube françaises à succès, des parents ou des proches mettent en scène leurs enfants. Une activité lucrative mal encadrée, qui provoque une controverse éthique et légale.</description>
+            <pubDate>Thu, 24 May 2018 09:52:38 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303731/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303726_3_4015_de-nombreuses-chaines-familiales-mettent-en_a616a583f2d4b9081f36ccce7b9620ad.jpg" type="image/jpeg" length="61371"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/disparitions/article/2018/05/24/l-auteur-de-romans-policiers-historiques-jean-francois-parot-est-mort_5303746_3382.html?xtor=RSS-3208</link>
+            <title>L’auteur de romans policiers historiques Jean-François Parot est mort</title>
+            <description>Ancien diplomate, Jean-François Parot avait créé le personnage de Nicolas Le Floch, commissaire de police au Châtelet du temps de Louis XV et de Louis XVI.</description>
+            <pubDate>Thu, 24 May 2018 10:33:51 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303746/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303745_3_8bf7_jean-francois-parot-ici-en-novembre-2014_8e8435eed410d8c0d4b6603f900f2d2c.jpg" type="image/jpeg" length="26766"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/ameriques/article/2018/05/24/aux-etats-unis-le-reflux-du-mouvement-anti-armes_5303723_3222.html?xtor=RSS-3208</link>
+            <title>Aux Etats-Unis, le reflux du mouvement contre les armes à feu</title>
+            <description>La tuerie dans un lycée de Santa Fe (Texas), le 18 mai, perpétrée après celle de Parkland (Floride), n’a pas renforcé le camp des partisans d’un contrôle accru des armes à feu.</description>
+            <pubDate>Thu, 24 May 2018 09:43:14 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303723/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303721_3_9ec6_lors-de-la-convention-annuelle-de-la-national_26f35e5e6dd420a926418b93615b24fc.jpg" type="image/jpeg" length="39538"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/campus/article/2018/05/23/parcoursup-que-faire-de-ses-v-ux-en-attente_5303531_4401467.html?xtor=RSS-3208</link>
+            <title>Parcoursup : comment fonctionnent les listes d’attente ?</title>
+            <description>Quand remonte-t-on dans la liste d’attente ? Qu’est-ce qu’un « groupe » ? Comment maintenir ses vœux « en attente » ? Les réponses du Centre d’information et d’orientation Médiacom.</description>
+            <pubDate>Wed, 23 May 2018 19:25:55 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303531/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/23/644x322/5303530_3_af42_une-candidate-consulte-le-resultat-de-ses_b5a4e46a8a7e3767443d65510cb4895b.jpg" type="image/jpeg" length="25868"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/ameriques/article/2018/05/24/apres-l-acier-et-l-aluminium-donald-trump-s-attaque-aux-importations-d-automobiles_5303647_3222.html?xtor=RSS-3208</link>
+            <title>Après l’acier et l’aluminium, Donald Trump s’attaque aux importations d’automobiles</title>
+            <description>L’enquête, ouverte par le secrétaire au commerce mercredi, devra déterminer « si le recul du nombre de véhicules menace d’affaiblir l’économie nationale » .</description>
+            <pubDate>Thu, 24 May 2018 06:51:27 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303647/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303645_3_be95_un-concessionnaire-volkswagen-a-san-diego-en_6ef496baac16328fd133537e228c95cb.jpg" type="image/jpeg" length="38567"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/pixels/article/2018/05/24/l-assemblee-entame-l-examen-de-la-loi-sur-les-fausses-informations_5303565_4408996.html?xtor=RSS-3208</link>
+            <title>L’Assemblée commence l’examen de la loi sur les « fausses informations »</title>
+            <description>Malgré un changement d’intitulé, les députés ont maintenu les grands axes du texte, et corrigé certains défauts relevés par le Conseil d’Etat.</description>
+            <pubDate>Thu, 24 May 2018 01:28:30 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303565/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303564_3_e748_l-assemblee-nationale-mardi-22-mai_5c095d74103bc9a62912d85ea8341687.jpg" type="image/jpeg" length="68354"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/economie/article/2018/05/24/la-communication-tout-en-maitrise-de-mark-zuckerberg-a-paris_5303757_3234.html?xtor=RSS-3208</link>
+            <title>La communication tout en maîtrise de Mark Zuckerberg à Paris</title>
+            <description>Malgré la pression médiatique et politique, la patron de Facebook semble très sûr de lui.</description>
+            <pubDate>Thu, 24 May 2018 10:37:55 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303757/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303779_3_6bf7_mark-zuckerberg-mercredi-23-mai-a-paris_d80c41eef0cb40b11298b6a4045f6ac6.jpg" type="image/jpeg" length="15573"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/afrique/article/2018/05/22/le-cameroun-face-au-pari-des-desengages-de-boko-haram_5302794_3212.html?xtor=RSS-3208</link>
+            <title>Le Cameroun face au pari des « désengagés » de Boko Haram</title>
+            <description>Suivant l’exemple des Etats voisins, la région de l’Extrême-Nord appelle les djihadistes à se repentir pour être réintégrés dans la société.</description>
+            <pubDate>Tue, 22 May 2018 14:54:53 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5302794/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/22/644x322/5302793_3_2a25_defile-de-la-fete-nationale-a-maroua-dans-le_34fd6aabb1bc3568b4e88af06e03db08.jpg" type="image/jpeg" length="62353"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/police-justice/article/2018/05/24/incidents-en-marge-de-la-manifestation-des-fonctionnaires-73-personnes-deferees_5303568_1653578.html?xtor=RSS-3208</link>
+            <title>Incidents en marge de la manifestation des fonctionnaires : 73 personnes déférées</title>
+            <description>Au total, cent vingt-huit personnes ont été interpellées mardi. Trente-trois, qui avaient tenté d’occuper le lycée Arago, comparaissent, jeudi, devant un magistrat qui décidera d’éventuelles poursuites à leur encontre.</description>
+            <pubDate>Thu, 24 May 2018 02:55:50 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303568/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303567_3_495d_mardi-22-mai-a-paris-les-forces-de-l-ordre-on_79d20119630ef475adc17c9e602d0d3c.jpg" type="image/jpeg" length="44972"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/idees/article/2018/05/24/cyberharcelement-la-presse-doit-mieux-proteger-les-femmes-journalistes_5303684_3232.html?xtor=RSS-3208</link>
+            <title>Cyberharcèlement : « La presse doit mieux protéger les femmes journalistes »</title>
+            <description>Une tribune au « Monde » du collectif « Prenons la une » demande que les violences en ligne soient reconnues comme un accident du travail.</description>
+            <pubDate>Thu, 24 May 2018 07:30:18 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303684/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303678_3_c616_harcelement-et-violences-en-ligne-faites-aux_b371583f6478a8023d80926490d60b09.jpg" type="image/jpeg" length="29864"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/proche-orient/article/2018/05/24/israel-prevoit-la-construction-de-2-500-logements-en-cisjordanie-en-2018_5303741_3218.html?xtor=RSS-3208</link>
+            <title>Israël prévoit la construction de 2 500 logements en Cisjordanie en 2018</title>
+            <description>Le ministère de la défense a déclaré, jeudi, vouloir demander la construction de « milliers de logements supplémentaires » dans les prochains mois.</description>
+            <pubDate>Thu, 24 May 2018 10:14:15 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303741/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303738_3_b31e_le-ministre-de-la-defense-israelien-avigdor-l_039e238ad10cf65d5d422c27a1dd3c9b.jpg" type="image/jpeg" length="54411"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/societe/video/2018/05/22/d-ou-vient-la-pratique-de-la-greve-en-france_5302659_3224.html?xtor=RSS-3208</link>
+            <title>Pourquoi les Français passent pour des champions de la grève ?</title>
+            <description>Mobilisation contre la réforme de la SNCF, la loi travail, le plan Juppé en 1995, Mai 68 ou encore mai-juin 1936… Analyse de la pratique de la grève en France.</description>
+            <pubDate>Tue, 22 May 2018 10:38:18 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5302659/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/22/644x322/5302657_3_8e09_une-manifestation-des-travailleurs-de-la-ratp_f09cd4b2cee43cfea9b5f5ef1c7a5656.jpg" type="image/jpeg" length="52054"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/campus/article/2018/05/23/des-examens-annules-a-sorbonne-universite-apres-des-tentatives-de-blocages_5303547_4401467.html?xtor=RSS-3208</link>
+            <title>Des examens annulés à Sorbonne Université à la suite de tentatives de blocage</title>
+            <description>Les partiels, délocalisés partiellement du centre de Clignancourt et reprogrammés, ont été perturbés, mercredi 23 mai.</description>
+            <pubDate>Wed, 23 May 2018 20:38:38 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303547/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/23/644x322/5303546_3_5bb3_l-entree-du-centre-malesherbes-de-sorbonne-un_f69b23614dd36167878700214589dc7d.jpg" type="image/jpeg" length="42346"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/culture/article/2018/05/23/aux-etats-unis-la-presse-salue-philip-roth-figure-preeminente-de-la-litterature-du-xxe-siecle_5303438_3246.html?xtor=RSS-3208</link>
+            <title>Aux Etats-Unis, la presse salue Philip Roth, « figure prééminente de la littérature du XXe siècle »</title>
+            <description>Au lendemain de la mort du romancier, les médias américains reviennent mercredi sur la longue et abondante carrière du romancier américain.</description>
+            <pubDate>Wed, 23 May 2018 16:28:28 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303438/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/23/644x322/5303437_3_471e_le-romancier-philip-roth-a-new-york-le-15-s_30b34eaf1d3e81bea22826bbee9b72a2.jpg" type="image/jpeg" length="24006"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/economie/article/2018/05/24/deusche-bank-va-supprimer-plus-de-7-000-emplois-dans-la-banque-d-investissement_5303698_3234.html?xtor=RSS-3208</link>
+            <title>Deusche Bank va supprimer plus de sept mille emplois dans la banque d’investissement</title>
+            <description>La banque allemande a annoncé, jeudi, que cette réduction des effectifs « devrait avoir lieu en grande partie cette année ».</description>
+            <pubDate>Thu, 24 May 2018 08:29:09 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303698/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303697_3_e83e_il-y-a-dix-ans-deutsche-bank-figurait-parmi_241b16394a92cb27a1bce86b9b4347b1.jpg" type="image/jpeg" length="46171"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/economie/article/2018/05/24/agroalimentaire-de-nouvelles-regles-dans-les-relations-commerciales-votees-a-l-assemblee_5303577_3234.html?xtor=RSS-3208</link>
+            <title>Agroalimentaire : de nouvelles règles dans les relations commerciales votées à l’Assemblée</title>
+            <description>Voté par 70 voix (sur 88), l’article premier du projet de loi agriculture et alimentation entend renforcer le rôle des agriculteurs dans la négociation du prix de leurs produits.</description>
+            <pubDate>Thu, 24 May 2018 04:59:33 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303577/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303575_3_192c_un-champ-de-patates-a-estourmel-en-france_2a21739dd3e1cafb975988e0aa2255e3.jpg" type="image/jpeg" length="58557"/>
+        </item>
+        <item>
+            <link>https://www.lemonde.fr/arts/article/2018/05/24/le-dernier-monet-pionnier-incompris-et-involontaire-de-l-abstraction_5303605_1655012.html?xtor=RSS-3208</link>
+            <title>Exposition : Claude Monet, pionnier incompris de l’abstraction</title>
+            <description>Le Musée de l’Orangerie expose les toiles des peintres américains qui ont suivi la voie ouverte par son chef-d’œuvre, « Les Nymphéas ».</description>
+            <pubDate>Thu, 24 May 2018 06:28:05 +0200</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/tiny/5303605/</guid>
+            <enclosure url="https://s1.lemde.fr/image/2018/05/24/644x322/5303601_3_466f_les-nympheas-bleus-1916-1919-huile-sur_b7c9d90e3197322a6843c972668def11.jpg" type="image/jpeg" length="54014"/>
+        </item>
+    </channel>
+</rss>
